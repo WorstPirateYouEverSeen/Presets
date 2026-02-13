@@ -16,7 +16,7 @@ using static Splatoon.Splatoon;
 
 namespace SplatoonScriptsOfficial.Duties.Dawntrail;
 
-public unsafe class M12S_P2_Clones_1_Navigation : SplatoonScript
+public unsafe class M12S_P2_Rep_1_Clones : SplatoonScript
 {
     public enum Corner
     {
